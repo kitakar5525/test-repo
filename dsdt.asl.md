@@ -1,3 +1,4 @@
+```asl
 Firmware Error (ACPI): Could not resolve [^GFX0.CLID], AE_NOT_FOUND (20190108/dswload-496)
 Firmware Error (ACPI): Could not resolve [^GFX0.CLID], AE_NOT_FOUND (20190108/dswload2-477)
 /*
@@ -23909,3 +23910,5 @@ DefinitionBlock ("", "DSDT", 2, "MSFT  ", "MSFT    ", 0x00000000)
     }
 }
 
+
+```asl
