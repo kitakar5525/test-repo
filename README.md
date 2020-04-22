@@ -6,3 +6,5 @@ Test repository for myself.
 テスト✋
 
 test
+
+test2
