@@ -5,8 +5,3 @@ Test repository for myself.
 
 テスト✋
 
-test
-
-test2
-
-test3
